@@ -1,5 +1,5 @@
 PNGTuber Lip Sync
-By Goddamnit on twitch (if you need updates let me know <3)
+By Goddamnit on Twitch
 written in python
 --------------------------------------------------------------------------------------
 Usage
@@ -59,3 +59,6 @@ Run the script with:
 Open Command Prompt as Admin, run:
 ```cmd
 pip install numpy sounddevice obsws-python
+```
+
+(if you need updates let me know <3)
