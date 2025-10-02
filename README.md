@@ -1,7 +1,22 @@
 PNGTuber Lip Sync
-By Goddamnit on twitch
+By Goddamnit on twitch (if you need updates let me know <3)
 written in python
+--------------------------------------------------------------------------------------
+Usage
 
+Start OBS and make sure the obs-websocket plugin is enabled.
+
+If needed, update the script with your own OBS_HOST, OBS_PORT, and OBS_PASSWORD.
+
+In your OBS scene, set up three sources named exactly:
+
+Avatar_Closed
+
+Avatar_Open
+
+Avatar_Ahh (yelling over 0.1)
+
+Run the script with:
 --------------------------------------------------------------------------------------
 - Real-time microphone volume detection  
 - Smooth mouth transition (fade-in/out effect)  
