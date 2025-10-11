@@ -1,4 +1,4 @@
-PNGTuber Lip Sync
+PNGTuber Lip Sync (Updated 10/11/2025)
 By Goddamnit on Twitch
 written in python
 --------------------------------------------------------------------------------------
@@ -14,7 +14,6 @@ Avatar_Closed
 
 Avatar_Open
 
-Avatar_Ahh (yelling over 0.1)
 
 Run the script with:
 --------------------------------------------------------------------------------------
